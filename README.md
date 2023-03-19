@@ -26,7 +26,7 @@ ii. https://www.kra.go.ke/individual/calculate-tax/calculating-tax/paye
 MIT license
 ### README.md
 This file contains description about the project.
-## Getting Started
+## Project setup
 ### Dependencies
 i. Node.js
 
