@@ -1,3 +1,5 @@
+// This is the studentGradeGenerator.js file 
+
 // Prompt the user to input student marks
 let marks = prompt("Enter student marks (between 0 and 100):");
 
