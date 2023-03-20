@@ -1,5 +1,5 @@
 // create functions for the deductions and gross salary
-//calculate gross || basic salary
+//calculates gross || basic salary
 function netSalary (basic_salary, benefits){
     Payee = findPayee (basic_salary);
        console.log (Payee);
